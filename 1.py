@@ -1,3 +1,4 @@
+#--coding:utf8--
 def f1(func):
     def run():
         print('时光荏苒，我还是成为了以前的那个人')
@@ -7,3 +8,9 @@ def f1(func):
 def f2():
     print('故事从此再无交集')
 f2()
+
+
+def res():
+    print("今天天很热")
+res()
+
